@@ -6,4 +6,4 @@ Data source: https://en.ilmatieteenlaitos.fi/download-observations#!/
 
 By Jonatan Hildén https://creativecommons.org/licenses/by/4.0/
 
-![Snow bars]((fig02_snowbars.png)
+![Snow bars](fig02_snowbars.png)
