@@ -5,6 +5,7 @@ Provided as is as python file + csv and Jupyter notebook.
 Data source: https://en.ilmatieteenlaitos.fi/download-observations#!/
 
 By Jonatan Hildén / [Koponen + Hildén](http://koponen-hilden.fi/) 
+
 https://creativecommons.org/licenses/by/4.0/
 
 ![Smoothed snow cover graphic](fig03_snowbars_smooth.png)
